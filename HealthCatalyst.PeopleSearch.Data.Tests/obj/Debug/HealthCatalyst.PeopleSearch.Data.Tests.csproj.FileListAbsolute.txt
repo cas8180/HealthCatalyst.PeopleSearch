@@ -1,0 +1,39 @@
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\x86\sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\x64\sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.Tests.dll.config
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.Tests.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.Tests.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\obj\Debug\HealthCatalyst.PeopleSearch.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\obj\Debug\HealthCatalyst.PeopleSearch.Data.Tests.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\obj\Debug\HealthCatalyst.PeopleSearch.Data.Tests.pdb
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\x86\sqlite3.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\x64\sqlite3.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.Tests.dll.config
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.Tests.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.Tests.pdb
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\HealthCatalyst.PeopleSearch.Data.pdb
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.xml
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\bin\Debug\System.Data.SQLite.xml
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\obj\Debug\HealthCatalyst.PeopleSearch.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\obj\Debug\HealthCatalyst.PeopleSearch.Data.Tests.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data.Tests\obj\Debug\HealthCatalyst.PeopleSearch.Data.Tests.pdb

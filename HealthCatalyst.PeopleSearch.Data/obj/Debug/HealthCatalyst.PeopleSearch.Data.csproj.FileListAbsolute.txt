@@ -1,0 +1,30 @@
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\x86\sqlite3.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\x64\sqlite3.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\HealthCatalyst.PeopleSearch.Data.dll.config
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\HealthCatalyst.PeopleSearch.Data.pdb
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.xml
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\obj\Debug\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\obj\Debug\HealthCatalyst.PeopleSearch.Data.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\x86\sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\x64\sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\HealthCatalyst.PeopleSearch.Data.dll.config
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\HealthCatalyst.PeopleSearch.Data.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\obj\Debug\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Data\obj\Debug\HealthCatalyst.PeopleSearch.Data.pdb

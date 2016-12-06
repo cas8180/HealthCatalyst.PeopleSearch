@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="jumbotron">
+    
+    <h1>People Search</h1>
+    <p class="lead text-nowrap" >
+        <input id="search" type="text"  />
+    </p>
+    <!--There are million different want to show a loading status when you have slow running requests this is a very simple example-->
+    <div id="Loading" style="display:none">
+        <i class="fa fa-spin fa-spinner" aria-hidden="true"></i>Loading...
+        <span class="sr-only">Loading...</span><!--for browsers that dont support rotations-->
+    </div>
+</div>
+ 

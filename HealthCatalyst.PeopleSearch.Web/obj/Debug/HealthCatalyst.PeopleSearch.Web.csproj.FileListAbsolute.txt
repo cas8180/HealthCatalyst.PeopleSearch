@@ -1,0 +1,74 @@
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\ApplicationInsights.config
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x86\e_sqlite3.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x64\e_sqlite3.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\csc.exe
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\vbc.exe
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\bin\x64\e_sqlite3.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\bin\x86\e_sqlite3.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Web.dll.config
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Web.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Web.pdb
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.MiddleWare.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\SQLitePCLRaw.core.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\AutoMapper.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.MiddleWare.pdb
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\AutoMapper.xml
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Data.pdb
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\obj\Debug\HealthCatalyst.PeopleSearch.Web.csprojResolveAssemblyReference.cache
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\obj\Debug\HealthCatalyst.PeopleSearch.Web.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\obj\Debug\HealthCatalyst.PeopleSearch.Web.pdb
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.EF6.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.Linq.dll
+C:\Users\cas81\onedrive\documents\visual studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\ApplicationInsights.config
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x86\e_sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x64\e_sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\csc.exe
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\vbc.exe
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\bin\x64\e_sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\bin\x86\e_sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Web.dll.config
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Web.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Web.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.MiddleWare.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\SQLitePCLRaw.core.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.EF6.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.Linq.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\AutoMapper.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Data.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.MiddleWare.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\System.Data.SQLite.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\AutoMapper.xml
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\HealthCatalyst.PeopleSearch.Data.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\obj\Debug\HealthCatalyst.PeopleSearch.Web.csprojResolveAssemblyReference.cache
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\obj\Debug\HealthCatalyst.PeopleSearch.Web.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\obj\Debug\HealthCatalyst.PeopleSearch.Web.pdb
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x86\sqlite3.dll
+C:\Users\william.fawthrop\Documents\HealthCatalyst.PeopleSearch2\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x64\sqlite3.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x86\sqlite3.dll
+C:\Users\cas81\OneDrive\Documents\Visual Studio 2015\Projects\HealthCatalyst.PeopleSearch\HealthCatalyst.PeopleSearch.Web\bin\x64\sqlite3.dll
